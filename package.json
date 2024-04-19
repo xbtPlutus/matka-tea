@@ -1,0 +1,15 @@
+{
+  "name": "matka-tea",
+  "version": "1.0.0",
+  "description": "Decentralized technology protocol, built on [@Base](https://twitter.com/teaprotocol), that enables OSS developers to be rewarded for their software contributions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
