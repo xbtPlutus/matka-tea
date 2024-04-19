@@ -1,7 +1,5 @@
 # Tea Protocol OSS Test Project
 
-![Tea Protocol Logo](https://tea.xyz/assets/images/tea-logo.png)
-
 Decentralized technology protocol, built on [@Base](https://twitter.com/teaprotocol), that enables OSS developers to be rewarded for their software contributions.
 
 ## About Tea Protocol
